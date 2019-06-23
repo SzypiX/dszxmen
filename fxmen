@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pl">
+    <head>
+        
+    <meta charset="UTF-8">
+    <meta name="vierport" content="width=device-width, intial-scale=1,0">
+    <tittle></tittle>
+    <link href="https://fonts.googleapis.com/css?family=Roboto:400,900&subset=latin-ext" rel="stylesheet"> 
+    <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="wrapper">
+            <header>
+               <img src="xmen.jpg" alt="xmen - header"/> 
+            </header>
+            
+            <nav>
+                <a class="menu active" href="#">First Class</a>
+                <a class="menu" href="#">Days of Future Past</a>
+                <a class="menu" href="#">Apocalypse</a>
+                <a class="menu" href="#">Dark Phoenix</a>
+                
+            </nav>
+            
+            <section>
+                <article>
+                    <h1>Strona Poświęcona Serii X-MEN</h1>
+                    <p><img class="left" src="xmenmniejszy.jpg" alt="twarz" /> <b>James McAvoy Michael Fassbender Nicholas Hoult Jennifer Lawrence Evan Peters Tye Sheridan</b> i wielu wielu innych aktorów gra w tej znakomitej serii 
+                     </p>
+                     <p>X-Men: First Class (2011) X-Men: Days of Future Past (2014) X-Men: Apocalypse (2016)  X-Men: Dark Phoenix (2019).</p>
+                     <p>Filmy o superbohaterach produkcji 20th Century Fox, które zaś oparte są na cyklu komiksów X-Men wydawanych przez Marvel Comics. Pomiędzy produkcjami zrzeszonymi w uniwersum stosowane są częste crossovery, a także wspólne wątki i członkowie obsady..</p>
+                </article>
+                <iframe width="1000" height="563" src="https://www.youtube.com/embed/azvR__GRQic" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </section>
+            <footer>Dawid Szypułka III MiC</footer>
+        </div>
+    </body>
+</html>
